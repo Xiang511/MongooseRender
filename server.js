@@ -1,5 +1,5 @@
 const http = require("http");
-const Room = require('./modules/rooms'); //大寫開頭是 Module
+const Room = require('./rooms'); //大寫開頭是 Module
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const path = require("path");
