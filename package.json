@@ -1,0 +1,17 @@
+{
+  "name": "mongooserender",
+  "version": "1.0.0",
+  "description": "練習Render部屬",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Hsiang",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.4"
+  }
+}
