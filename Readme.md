@@ -3,7 +3,7 @@
 
 ## Usage
 ```
-Goto | https://mongoosetest-1.onrender.com/posts
+Goto | https://mongooserender.onrender.com/rooms
 ```
 
 > [!IMPORTANT]
