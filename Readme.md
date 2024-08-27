@@ -1,18 +1,22 @@
-Simple Server connect MongoDB
+## Simple Server connect MongoDB
 使用Render來部屬
 
-Usage
+## Usage
+```
 Goto | https://mongoosetest-1.onrender.com/posts
-Important
+```
 
-Free plan server on need 50s +
+> [!IMPORTANT]
+>Free plan server on need 50s +
 
-Feature
+## Feature
+```
 Basic C U R D
-Warning
+```
 
-The post request must contain the following information
-
+>[!Warning]
+>The post request must contain the following information
+```
    {
         name: String,
         price: {
@@ -27,3 +31,4 @@ The post request must contain the following information
         }
         
     },
+```
